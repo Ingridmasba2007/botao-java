@@ -1,4 +1,4 @@
 function mudarCorTexto(){
     alert("banana fugitiva")
-    document.querySelector("#p1")
+    console.log (document.querySelector("#p1"))
 } 
