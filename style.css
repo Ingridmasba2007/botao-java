@@ -1,6 +1,6 @@
 body{
     height: 100vh;
-    background-image: linear-gradient(rgb(181, 219, 255), rgb(22, 85, 143),white, rgb(228, 250, 226) );
+    background-image: linear-gradient(rgb(241, 241, 241), rgb(190, 203, 238),rgb(136, 191, 228), rgb(105, 171, 233) );
     background-repeat: no-repeat;
     width: 100vh;
 }
