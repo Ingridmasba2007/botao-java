@@ -1,1 +1,4 @@
-alert("banana fugitiva")
+function mudarCorTexto(){
+    alert("banana fugitiva")
+
+}       
