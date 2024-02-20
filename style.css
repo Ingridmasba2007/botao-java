@@ -4,3 +4,7 @@ body{
     background-repeat: no-repeat;
     width: 100vh;
 }
+.teste1{
+    display: flex;
+    justify-content: space-around;
+}
